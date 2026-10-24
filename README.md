@@ -1,6 +1,6 @@
-### Hi, I'm Rodrigo
+### Hi, I'm Rod
 
-Full-stack developer from Lisbon, with an MSc in Computer Science and Engineering from Instituto Superior Técnico. I like building small, fast, well-polished tools, mostly with TypeScript, Svelte and Rust. Outside of code I play the violin.
+Full-stack developer from Lisbon, with an MSc in Computer Science and Engineering from Instituto Superior Técnico. I like building small, fast, well-polished tools, mostly with TypeScript, Svelte and Rust. Outside of code I play the violin and tinker with electronics.
 
 [rodlabs.dev](https://rodlabs.dev) · [rod@rodlabs.dev](mailto:rod@rodlabs.dev)
 
