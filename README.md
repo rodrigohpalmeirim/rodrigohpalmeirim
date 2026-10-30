@@ -14,6 +14,7 @@ Full-stack developer from Lisbon, with an MSc in Computer Science and Engineerin
 #### Tools & utilities
 
 - **[Claude Taskbar Usage](https://github.com/rodrigohpalmeirim/claude-taskbar-usage)**: Claude's 5-hour and weekly usage limits as a tiny widget in the Windows taskbar (Rust)
+- **[mutekey](https://github.com/rodrigohpalmeirim/mutekey)**: mute every microphone from anywhere with Win+Shift+A, a tiny Windows tray app that brings back PowerToys' removed Video Conference Mute (Rust)
 - **[Trip Finder](https://github.com/rodrigohpalmeirim/trip-finder)** · [try it](https://flights.rodlabs.dev): find the cheapest round-trip flight combinations across multiple airports and dates
 - **[Muscle Map](https://github.com/rodrigohpalmeirim/muscle-map)** · [try it](https://rodrigohpalmeirim.github.io/muscle-map/): pick exercises and see which muscles the session actually trains
 - **[Timer](https://github.com/rodrigohpalmeirim/timer)** · [try it](https://rodrigohpalmeirim.github.io/timer/): minimal keyboard-driven timer for interval sequences
